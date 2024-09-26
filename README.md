@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Todo App - React and Redux
+
+This simple Todo project, built using Redux, allows users to manage their tasks efficiently. It provides three core functionalities: adding, removing, and editing todos, ensuring seamless state management with Redux for a smooth user experience.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
